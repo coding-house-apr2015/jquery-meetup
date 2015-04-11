@@ -1,0 +1,22 @@
+body{
+  background-color: pink;
+}
+
+.alert{
+  border: 5px dashed red;
+  background-color: yellow;
+  font-size: 30px;
+}
+
+.cube, .quote, .color{
+  display: inline-block;
+  color: yellow;
+  border: 1px solid red;
+  background-color: purple;
+  padding: 10px;
+  margin: 10px;
+}
+
+.selected{
+  border: 3px solid black;
+}
